@@ -1,0 +1,12 @@
+@media screen and (max-width:768px) {
+    body .wrapper .content .gallery {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+    body .wrapper .content .gallery > * {
+        width: 100%;
+    }
+    .spotlight > * {
+        width: 100%;
+}
